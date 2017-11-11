@@ -1,0 +1,36 @@
+
+body{background-image: url(../res/gh.jpg); background-size:100%; background-repeat: no-repeat;}
+
+
+a{text-decoration: none; color: black;}
+
+div{background-color: rgba(140,20,82,0.5);}
+
+header{width: all; height: 100px; background-color: transparent;}
+
+h1{ text-align: center; color: white; font-size: 70px;}
+
+table{text-align: center; width: all; background-color: green;}
+td{height: 250px;}
+img{width: 50%}
+.na{
+	margin-top: 1%;
+	float: left;
+	text-decoration: none;
+	display: inline-block; 
+}
+.navi{
+		margin-top: 2%;
+		text-align: center; 
+		padding: 5px;
+		font-size: 20px;
+		font-family: calibri;
+		line-height: 35px; 
+		display: inline-block; 
+		background-color: rgb(200,200,200); 
+		width: 100px; 
+		height: 35px;
+		float: right;
+		margin-right: 10px; 
+     }
+     #img{width:20%;}

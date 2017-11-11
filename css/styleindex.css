@@ -1,0 +1,33 @@
+
+body{background-image: url(../res/bg.jpeg); background-size: cover;}
+
+/*header{ width:all; height: wrap-content ;background-color: rgba(0,0,0,0.5);}*/
+
+a{text-decoration: none; color: black;}
+
+img{width:20%;}
+
+header{width: all; height: 100px; background-color: transparent;}
+
+h1{ text-align: center; color: white; font-size: 70px;}
+
+.na{
+	margin-top: 1%;
+	float: left;
+	text-decoration: none;
+	display: inline-block; 
+}
+.navi{
+		margin-top: 2%;
+		text-align: center; 
+		padding: 5px;
+		font-size: 20px;
+		font-family: calibri;
+		line-height: 35px; 
+		display: inline-block; 
+		background-color: rgb(200,200,200); 
+		width: 100px; 
+		height: 35px;
+		float: right;
+		margin-right: 10px; 
+     }
